@@ -1,0 +1,1 @@
+print('abcdecd'.split('cd'))
